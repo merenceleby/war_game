@@ -1,4 +1,4 @@
 # war_game
-Assetler kullanmadan geometrik şekiller ile 3D bir savaş oyunu geliştirdim.
-Oyuncu küplere ateş edip vurduğu zaman sol tablodaki Shoot Score artmaya başlayacak.
-Eğer oyuncu küplere dokunursa veya onları fare ile sürüklemeye çalışırsa, o zaman sağ üst tablodaki Cube Detect Score artmaya başlayacak.
+I developed a 3D war game with geometric shapes without using assets. 
+When the player shoots and hits the cubes, the Shoot Score in the left table will start to increase. 
+If the player touches the cubes or tries to drag them with the mouse, then the Cube Detect Score in the top right table will start increasing.
